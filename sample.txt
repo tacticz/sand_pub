@@ -1,2 +1,5 @@
 Files are created on the develop branch.
 Local testing must take place to ensure the "develop" code is functional.
+
+Once tested, the develop code is merged into the master branch.
+Merging is NOT performed locally but through a GitHub Pull Request.

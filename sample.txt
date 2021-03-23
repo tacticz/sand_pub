@@ -16,3 +16,5 @@ The pull request should then be accepted (or rejected) by an authorized GitHub u
 NOTE: SQUASH merge should be performed on [head] branches, that are removed
 right after merging.
 Persisting branches commits, like in [develop], should be merge commited.
+
+Finally, the GitHub [master] branch is pulled back into the local one.

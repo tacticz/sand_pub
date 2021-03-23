@@ -1,5 +1,10 @@
-Files are created on the develop branch.
+Files are created, updated and commited to the local develop branch.
+
 Local testing must take place to ensure the "develop" code is functional.
 
-Once tested, the develop code is merged into the master branch.
+Once tested, the develop code should be merged into the master branch.
 Merging is NOT performed locally but through a GitHub Pull Request.
+
+First one pushes the [develop] branch to GitHub (origin)
+Next, on the GitHub page, a pull request is created:
+   base: master <- compare: develop    [Create pull request]
